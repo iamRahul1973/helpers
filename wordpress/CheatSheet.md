@@ -16,3 +16,7 @@ Follow this norms whenever building a new WordPress Bitch
  - Change Login URL
  - Change Table Prefix
  - Fetch URL, Alt, Title attributes of every dynamic images dynamically
+
+## Links
+
+ - [Featured Image Alt Tag] (https://stackoverflow.com/a/20125120/7309535)
