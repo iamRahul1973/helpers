@@ -20,3 +20,4 @@ Follow this norms whenever building a new WordPress Bitch
 ## Links
 
  - [Featured Image Alt Tag] (https://stackoverflow.com/a/20125120/7309535)
+ - [Force https Redirection] (https://in.godaddy.com/help/redirect-my-wordpress-website-to-https-for-linux-hosting-27871)
