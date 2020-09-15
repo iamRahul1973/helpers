@@ -16,6 +16,7 @@ Follow this norms whenever building a new WordPress Bitch
  - Change Login URL
  - Change Table Prefix
  - Fetch URL, Alt, Title attributes of every dynamic images dynamically
+ - Disable File Editing from the dashboard
 
 ## Links
 
