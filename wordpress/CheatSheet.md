@@ -24,3 +24,4 @@ Follow this norms whenever building a new WordPress Bitch
  - [Featured Image Alt Tag] (https://stackoverflow.com/a/20125120/7309535)
  - [Force https Redirection] (https://in.godaddy.com/help/redirect-my-wordpress-website-to-https-for-linux-hosting-27871)
  - [Disable XML RPC] (https://www.wpbeginner.com/plugins/how-to-disable-xml-rpc-in-wordpress/)
+ - [Change Table Prefix] (https://www.wpbeginner.com/wp-tutorials/how-to-change-the-wordpress-database-prefix-to-improve-security/)
