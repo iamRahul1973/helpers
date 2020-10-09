@@ -10,6 +10,7 @@ Follow this norms whenever building a new WordPress Bitch
  - w3 Total Cache
  - Autoptimize
  - WPS Hide Login
+ - Simple History / WP Activity Log
  
 ## Remember to
 
