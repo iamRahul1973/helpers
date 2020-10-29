@@ -11,6 +11,9 @@ Follow this norms whenever building a new WordPress Bitch
  - Autoptimize
  - WPS Hide Login
  - Simple History / WP Activity Log
+ - [Bootstrap Blocks for Gutenberg] (https://github.com/liip/bootstrap-blocks-wordpress-plugin#readme)
+ - [Lightbox supportfor Gutenberg Gallery] (http://photoswipe.com/)
+ - Newsletter plugins
  
 ## Remember to
 
