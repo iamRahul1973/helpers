@@ -14,6 +14,7 @@ Follow this norms whenever building a new WordPress Bitch
  - [Bootstrap Blocks for Gutenberg] (https://github.com/liip/bootstrap-blocks-wordpress-plugin#readme)
  - [Lightbox supportfor Gutenberg Gallery] (http://photoswipe.com/)
  - Newsletter plugins
+ - [SVG Support] (https://wordpress.org/plugins/svg-support/)
  
 ## Remember to
 
