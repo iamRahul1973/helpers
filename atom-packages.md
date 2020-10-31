@@ -1,5 +1,6 @@
 # My Atom Setup
 
+## Packages
 * atom-autocomplete-php
 * atom-beautify
 * atom-bracket-highlight
