@@ -24,3 +24,6 @@
 * selection-highlight
 * switch-quotes
 * wordpress-autocomplete
+
+**Font Family** Fira Code
+**Font Size** 13
