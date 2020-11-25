@@ -30,3 +30,4 @@ Follow this norms whenever building a new WordPress Bitch
  - [Force https Redirection] (https://in.godaddy.com/help/redirect-my-wordpress-website-to-https-for-linux-hosting-27871)
  - [Disable XML RPC] (https://www.wpbeginner.com/plugins/how-to-disable-xml-rpc-in-wordpress/)
  - [Change Table Prefix] (https://www.wpbeginner.com/wp-tutorials/how-to-change-the-wordpress-database-prefix-to-improve-security/)
+ - [Migrate with Wordfence] (https://www.wordfence.com/help/advanced/remove-or-reset/#migrate-with-wordfence)
