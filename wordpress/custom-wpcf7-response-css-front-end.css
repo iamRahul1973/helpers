@@ -1,0 +1,30 @@
+.wpcf7-not-valid-tip {
+		font-size: 12px !important;
+		font-weight: 500;
+	}
+
+	.wpcf7 form .wpcf7-response-output {
+		border: none;
+		padding: 0;
+		font-size: 13px;
+		line-height: 22px;
+		font-weight: 600;
+	}
+
+	.wpcf7 form.invalid .wpcf7-response-output, 
+	.wpcf7 form.unaccepted .wpcf7-response-output {
+		color: #ffb900;
+	}
+
+	.wpcf7 form.sent .wpcf7-response-output {
+		color: #46b450;
+	}
+
+	.wpcf7 form.failed .wpcf7-response-output,
+	.wpcf7 form.aborted .wpcf7-response-output {
+		color: #dc3232;
+	}
+
+	.wpcf7 form.spam .wpcf7-response-output {
+		color: #f56e28;
+	}
