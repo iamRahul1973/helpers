@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"notebook.kernelProviderAssociations": [
+		
+		],
+		"phpcs.standard": "WordPress",
+		"phpcbf.standard": "WordPress",
+		"editor.insertSpaces": false
+	}
+}
