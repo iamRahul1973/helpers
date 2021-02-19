@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"notebook.kernelProviderAssociations": [
+		
+		],
+		"phpcs.standard": "PSR2",
+		"phpcbf.standard": "PSR2",
+		"editor.insertSpaces": true
+	}
+}
