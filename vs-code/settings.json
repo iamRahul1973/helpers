@@ -1,1 +1,58 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "php.validate.run": "onType",
+    "editor.fontFamily": "Operator Mono",
+    "editor.fontWeight": "300",
+	"editor.codeActionsOnSave": null,
+	"files.eol": "\n",
+    "launch": {
 
+        "configurations": [],
+        "compounds": []
+    },
+    "workbench.tree.indent": 15,
+    "notebook.kernelProviderAssociations": [
+
+        
+	],
+	"php.validate.executablePath": "F:/xampp/php/php.exe",
+    "editor.lineHeight": 28,
+    "editor.letterSpacing": 0.5,
+    "workbench.colorTheme": "Tokyo Night",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": "comment",
+                "settings": {
+                    "fontStyle": "" // for normal keep empty string
+                }
+            }
+        ]
+    },
+    "emmet.triggerExpansionOnTab": true,
+    "blade.format.enable": true,
+    "[blade]": {
+        "editor.autoClosingBrackets": "always",
+        "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+    },
+    "editor.fontLigatures": null,
+    "phpcs.enable": true,
+    "phpcs.executablePath": "C:/Users/Cordiace/AppData/Roaming/Composer/vendor/bin/phpcs",
+    "phpcs.standard": "PSR2",
+    "phpcbf.enable": true,
+    "phpcbf.documentFormattingProvider": true,
+    "phpcbf.onsave": true,
+    "phpcbf.executablePath": "C:/Users/Cordiace/AppData/Roaming/Composer/vendor/bin/phpcbf.bat",
+    "phpcbf.standard": "PSR2",
+    "[php]": {
+        "editor.defaultFormatter": "persoderlind.vscode-phpcbf"
+    },
+    "editor.insertSpaces": false, // true for laravel false for others
+    "editor.detectIndentation": true,
+    "[css]": {
+        "editor.defaultFormatter": "aeschli.vscode-css-formatter"
+    },
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "files.autoSave": "afterDelay"
+}
